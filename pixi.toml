@@ -1,0 +1,12 @@
+[workspace]
+authors = ["Clément NOBER <clement.nober@etu.minesparis.psl.eu>"]
+channels = ["conda-forge"]
+name = "altegrad"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "<3.9"
+pytorch = ">=2.4.0,<3"

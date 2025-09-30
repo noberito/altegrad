@@ -31,3 +31,15 @@ A query is a vector of in the vocabulary coordonates of the words in the query.
 See the calculation again.
 
 ### Word2Vec
+
+Which one is better ?
+
+* SVD better on similarity
+* Word2Vec on analogy
+
+### Fast Text Embeddings
+
+Revoir les slides
+
+## CNN for text classification
+
